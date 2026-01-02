@@ -1189,7 +1189,7 @@
                     </div>
                     <div class="feature-content">
                         <h3>Premier Event Access</h3>
-                        <p>VIP seating at all premieres, exclusive after-parties, and private screenings with Gerard and industry insiders.</p>
+                        <p>VIP seating at all premieres, exclusive after-parties, and private screenings with Steve perry  and industry insiders.</p>
                     </div>
                 </div>
                 
@@ -1256,7 +1256,7 @@
                         <div class="vip-badge">PRIVATE EVENT</div>
                         <img src="https://images.unsplash.com/photo-1513106580091-1d82408b8cd6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Q&A Session">
                         <div class="content-overlay">
-                            <h3>Live Q&A with Gerard</h3>
+                            <h3>Live Q&A with Steve Perry</h3>
                             <p>Recording of our exclusive members-only virtual event</p>
                         </div>
                     </div>
@@ -1266,7 +1266,7 @@
                         <img src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Personal Vlog">
                         <div class="content-overlay">
                             <h3>Personal Vlog: Scotland Retreat</h3>
-                            <p>Join Gerard on a personal trip back to his roots in Scotland</p>
+                            <p>Join steve perry on a personal trip back to his roots in california</p>
                         </div>
                     </div>
                 </div>
